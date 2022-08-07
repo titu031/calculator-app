@@ -5,3 +5,4 @@ function add(a, b) {
 }
 z = add(7, 8);
 console.log(z);
+console.log("This edit from repository");
